@@ -39,7 +39,7 @@ Esse repositório mantém o <em>backend</em> e <em>frontend</em> da aplicação 
 ## Backend
 
 Para autenticação foram criados 2 tipos de usuários: MEDICO e ENFERMEIRO. Com as seguintes credenciais:
-
+~~~json
 {
 	"login" : "fulano",
 	"senha" : "teste123"
@@ -49,6 +49,7 @@ Para autenticação foram criados 2 tipos de usuários: MEDICO e ENFERMEIRO. Com
 	"login" : "ciclano",
 	"senha" : "teste123"
 }
+~~~
 
 <em>Esses usuários foram criados hard-coded no banco de dados.</em>
 

@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto";
+  height: 100vh;
+  background-color: #0056b3;
+}
+
+.error-message {
+  background-color: #ffcccc;
+  color: #ff0000;
+  padding: 10px;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 15px;
+}

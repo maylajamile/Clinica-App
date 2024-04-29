@@ -1,6 +1,6 @@
 # Clínica-App
 
-Esse repositório mantém o <em>backend</em> e <em>frontend</em> da aplicação de cadastro de pacientes.
+Esse repositório mantém o <em>backend</em> e <em>frontend</em> da aplicação de clínica médica.
 
 <img src="https://cdn.discordapp.com/attachments/1221951787318378607/1234400694312632330/image.png?ex=663098bb&is=662f473b&hm=7ac8e170e1756b81de1800ad3a29d4f917327536a8b2075d6c2971b02136887c&" width="500px" >
 <img src="https://cdn.discordapp.com/attachments/1221951787318378607/1234400918607499345/image.png?ex=663098f1&is=662f4771&hm=220c36f355d1e4082ec0f98936331e7612ecb5d77ba2a1f0348640b206fdd082&">

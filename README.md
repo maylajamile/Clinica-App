@@ -2,9 +2,9 @@
 
 Esse repositório mantém o <em>backend</em> e <em>frontend</em> da aplicação de clínica médica.
 
-<img src="https://cdn.discordapp.com/attachments/1221951787318378607/1234400694312632330/image.png?ex=663098bb&is=662f473b&hm=7ac8e170e1756b81de1800ad3a29d4f917327536a8b2075d6c2971b02136887c&" width="500px" >
-<img src="https://cdn.discordapp.com/attachments/1221951787318378607/1234400918607499345/image.png?ex=663098f1&is=662f4771&hm=220c36f355d1e4082ec0f98936331e7612ecb5d77ba2a1f0348640b206fdd082&">
-<img src="https://cdn.discordapp.com/attachments/1221951787318378607/1234400981509476402/image.png?ex=66309900&is=662f4780&hm=2ce469f5171fa5b3c2b3dde77a98a08efbcd252d4821b0104a05a5fefdffe125&">
+<img src="https://github.com/maylajamile/github-images/blob/d6ed626bbf1025712ed69424f0d203408797a1b0/image12.png" alt="Imagem página de login" width="500px" >
+<img src="https://github.com/maylajamile/github-images/blob/d6ed626bbf1025712ed69424f0d203408797a1b0/image13.png" alt="Imagem de página de cadastro">
+<img src="https://github.com/maylajamile/github-images/blob/d6ed626bbf1025712ed69424f0d203408797a1b0/image14.png" alt="Imagem de página de listagem">
 
 ## Endpoints
 
@@ -67,7 +67,7 @@ Para iniciar esse serviço basta executar a classe <strong>ClinicaApiApplication
 
 É possível efetuar o login com uma das credenciais, podendo visualizar a lista de usuarios, sejam pacientes ou enfermeiros e cadastrar um paciente.
 
-Para iniciar esse serviço basta usar o comando <strong>npm run dev</strong> dentro da pasta.
+Para iniciar esse serviço basta usar os comandos <strong>npm install vite</strong> e <strong>npm run dev</strong> dentro da pasta.
 
 ## O que foi utilizado no frontend?
 
